@@ -12,6 +12,8 @@ A **modern, production-ready** hospital appointment scheduling system with **day
 | **Schedule Route** | [https://pearl-thoughts-frontend-interview-c.vercel.app/schedule](https://pearl-thoughts-frontend-interview-c.vercel.app/schedule) | Main scheduler interface |
 
 ---
+**Demo Video** - [Demo video of live demo and code](https://www.loom.com/share/e3438822e2324d889327000106a54449?sid=21331f85-ee68-47c7-8b2f-0315675e5da3)
+---
 
 ## ✨ Features Overview
 
